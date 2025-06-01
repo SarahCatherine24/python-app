@@ -1,0 +1,4 @@
+Requirements Report
+Generated: 2025-06-02 01:02:23.476261
+Target Python version: 3.10
+
